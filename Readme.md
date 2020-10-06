@@ -41,7 +41,7 @@ def run_word_count() -> None:
 ```
 
 ## Launching large tasks
- * To run, you need to pass the name of one experiment to `__main__` (run `--help` to see available experiments:
+ * To run, you need to pass the name of one experiment to `__main__` (run `--help` to see available experiments):
 ```
 (shad) ➜  yagudinamir git:(compgraph) ✗ python3 -m compgraph --experiment count
 file iteration finished
@@ -53,4 +53,4 @@ file iteration finished
 experiment successfully finished
 ```  
 * To run library tests:
-(shad) ➜  yagudinamir git:(compgraph) ✗ pytest compgraph
+```(shad) ➜  yagudinamir git:(compgraph) ✗ pytest compgraph```
