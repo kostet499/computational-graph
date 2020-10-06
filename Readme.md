@@ -1,4 +1,4 @@
-#Tiny library for graph computation
+# Tiny library for graph computation
 
 ## Calculation graph interface
 
